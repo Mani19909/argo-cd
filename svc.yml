@@ -8,5 +8,4 @@ spec:
   selector:
     app: swiggy
   ports:
-    - port: 3000
-      targetPort: 3000                                                                                  
+    - port: 80                                                                                 
